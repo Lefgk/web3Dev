@@ -15,6 +15,25 @@ I've contributed :
 - https://defi.animalfarm.world/
 - https://shiryo.com/
 
+---
+
+### 📫 Connect With Me
+
+- Twitter/X: https://twitter.com/GLordskotostras
+- Telegram: https://t.me/Lefkk
+- GitHub: https://github.com/Lefgk
+
+---
+
+### 🌐 Web3 EVM Stack
+
+- 💻 **Next.js** + **React** + **RainbowKit** 
+- 🔗 Any time of contract, token, nft, farm, dex, fork or custom
+- ⚙️ Any site
+- Any type of bots, scripts, arbitrage, front-run, back-run, snipe 
+
+---
+
 And 20+ more 
 <img width="1627" alt="pmon" src="https://github.com/user-attachments/assets/bc5036f6-02d8-4ed7-b2b0-3d62338c16a0" />
 <img width="1626" alt="zkb" src="https://github.com/user-attachments/assets/d9333176-975a-4958-8c54-e7a9f4277305" />
@@ -24,21 +43,6 @@ And 20+ more
 ![chedda](https://github.com/user-attachments/assets/0bc6a0e4-b2a5-4c95-9f20-fc81708c4c5b)
 <img width="1724" alt="leo" src="https://github.com/user-attachments/assets/04eadf8d-28df-4805-9799-c027f365dbe6" />
 <img width="1748" alt="hbsc" src="https://github.com/user-attachments/assets/2b6fe41d-f952-4450-adac-7503d7539dae" />
+<img width="1636" alt="GT" src="https://github.com/user-attachments/assets/e541cdb1-54c6-42c1-9b08-cf7b333418d7" />
+![babynft](https://github.com/user-attachments/assets/b12486f2-4879-4cef-aaac-d31921e6dfe6)
 
-
----
-
-### 🌐 Web3 EVM Stack
-
-- 💻 **Next.js** + **React** + **RainbowKit** 
-- 🔗 Any time of contract, fork or custom
-- ⚙️ Any site
-- Any type of bots, scripts, arbitrage, front-run, back-run, snipe 
-
----
-
-### 📫 Connect With Me
-
-- Twitter/X: https://twitter.com/GLordskotostras
-- Telegram: https://t.me/Lefkk
-- GitHub: https://github.com/Lefgk
